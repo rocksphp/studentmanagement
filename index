@@ -1,0 +1,11 @@
+$ cd studentmanagement
+$ git init
+Initialized empty Git repository in .git/
+$ git add .
+$ git commit -m "my first commit"
+Created initial commit 5df2d09: my first commit
+ 44 files changed, 8393 insertions(+), 0 deletions(-)
+ create mode 100644 README
+ create mode 100644 Procfile
+ create mode 100644 app/controllers/source_file
+...
